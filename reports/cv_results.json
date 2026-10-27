@@ -1,0 +1,13 @@
+{
+  "Random Forest (Tuned)": {
+    "mean_cv_roc_auc": 0.7080802738247042
+  },
+  "Logistic Regression": {
+    "mean_cv_roc_auc": 0.7086058055639566,
+    "std": 0.0026428954003171103
+  },
+  "Decision Tree": {
+    "mean_cv_roc_auc": 0.6867096977612412,
+    "std": 0.006646894995087001
+  }
+}

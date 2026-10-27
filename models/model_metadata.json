@@ -1,0 +1,25 @@
+{
+  "model_name": "RandomForestClassifier",
+  "version": "1.0.0",
+  "trained_date": "2026-10-27 13:48:14",
+  "training_time_seconds": 181.32,
+  "dataset_rows_total": 50000,
+  "train_samples": 40000,
+  "test_samples": 10000,
+  "best_hyperparameters": {
+    "n_estimators": 200,
+    "min_samples_split": 10,
+    "min_samples_leaf": 8,
+    "max_features": "sqrt",
+    "max_depth": 20,
+    "class_weight": "balanced"
+  },
+  "5_fold_cv_roc_auc": 0.7080802738247042,
+  "test_roc_auc": 0.7081,
+  "test_pr_auc": 0.3693,
+  "test_f1": 0.3991,
+  "optimal_cost_threshold": 0.373,
+  "optimal_f1_threshold": 0.431,
+  "feature_count_raw": 27,
+  "feature_count_transformed": 107
+}

@@ -1,0 +1,537 @@
+[
+  {
+    "rank": 1,
+    "feature": "int_rate",
+    "mean_abs_shap": 0.05824
+  },
+  {
+    "rank": 2,
+    "feature": "term_ 36 months",
+    "mean_abs_shap": 0.03126
+  },
+  {
+    "rank": 3,
+    "feature": "term_ 60 months",
+    "mean_abs_shap": 0.02715
+  },
+  {
+    "rank": 4,
+    "feature": "installment_to_income",
+    "mean_abs_shap": 0.0213
+  },
+  {
+    "rank": 5,
+    "feature": "dti",
+    "mean_abs_shap": 0.02076
+  },
+  {
+    "rank": 6,
+    "feature": "fico_range_low",
+    "mean_abs_shap": 0.01414
+  },
+  {
+    "rank": 7,
+    "feature": "fico_score",
+    "mean_abs_shap": 0.01407
+  },
+  {
+    "rank": 8,
+    "feature": "mort_acc",
+    "mean_abs_shap": 0.01354
+  },
+  {
+    "rank": 9,
+    "feature": "fico_range_high",
+    "mean_abs_shap": 0.01293
+  },
+  {
+    "rank": 10,
+    "feature": "home_ownership_MORTGAGE",
+    "mean_abs_shap": 0.01251
+  },
+  {
+    "rank": 11,
+    "feature": "tot_cur_bal",
+    "mean_abs_shap": 0.01092
+  },
+  {
+    "rank": 12,
+    "feature": "annual_inc",
+    "mean_abs_shap": 0.01073
+  },
+  {
+    "rank": 13,
+    "feature": "installment",
+    "mean_abs_shap": 0.00895
+  },
+  {
+    "rank": 14,
+    "feature": "open_acc",
+    "mean_abs_shap": 0.00876
+  },
+  {
+    "rank": 15,
+    "feature": "total_rev_hi_lim",
+    "mean_abs_shap": 0.00831
+  },
+  {
+    "rank": 16,
+    "feature": "loan_amnt",
+    "mean_abs_shap": 0.0083
+  },
+  {
+    "rank": 17,
+    "feature": "verification_status_Not Verified",
+    "mean_abs_shap": 0.0081
+  },
+  {
+    "rank": 18,
+    "feature": "inq_last_6mths",
+    "mean_abs_shap": 0.00801
+  },
+  {
+    "rank": 19,
+    "feature": "revol_bal",
+    "mean_abs_shap": 0.00727
+  },
+  {
+    "rank": 20,
+    "feature": "home_ownership_RENT",
+    "mean_abs_shap": 0.00651
+  },
+  {
+    "rank": 21,
+    "feature": "credit_limit_utilization",
+    "mean_abs_shap": 0.00618
+  },
+  {
+    "rank": 22,
+    "feature": "revol_util",
+    "mean_abs_shap": 0.00589
+  },
+  {
+    "rank": 23,
+    "feature": "total_acc",
+    "mean_abs_shap": 0.00562
+  },
+  {
+    "rank": 24,
+    "feature": "verification_status_Verified",
+    "mean_abs_shap": 0.00467
+  },
+  {
+    "rank": 25,
+    "feature": "purpose_credit_card",
+    "mean_abs_shap": 0.00314
+  },
+  {
+    "rank": 26,
+    "feature": "verification_status_Source Verified",
+    "mean_abs_shap": 0.00176
+  },
+  {
+    "rank": 27,
+    "feature": "purpose_debt_consolidation",
+    "mean_abs_shap": 0.00141
+  },
+  {
+    "rank": 28,
+    "feature": "pub_rec",
+    "mean_abs_shap": 0.00137
+  },
+  {
+    "rank": 29,
+    "feature": "emp_length_10+ years",
+    "mean_abs_shap": 0.00137
+  },
+  {
+    "rank": 30,
+    "feature": "home_ownership_OWN",
+    "mean_abs_shap": 0.00114
+  },
+  {
+    "rank": 31,
+    "feature": "purpose_other",
+    "mean_abs_shap": 0.00107
+  },
+  {
+    "rank": 32,
+    "feature": "delinq_2yrs",
+    "mean_abs_shap": 0.00104
+  },
+  {
+    "rank": 33,
+    "feature": "addr_state_NY",
+    "mean_abs_shap": 0.00098
+  },
+  {
+    "rank": 34,
+    "feature": "addr_state_CA",
+    "mean_abs_shap": 0.00093
+  },
+  {
+    "rank": 35,
+    "feature": "addr_state_FL",
+    "mean_abs_shap": 0.00089
+  },
+  {
+    "rank": 36,
+    "feature": "emp_length_2 years",
+    "mean_abs_shap": 0.00079
+  },
+  {
+    "rank": 37,
+    "feature": "pub_rec_bankruptcies",
+    "mean_abs_shap": 0.00065
+  },
+  {
+    "rank": 38,
+    "feature": "emp_length_< 1 year",
+    "mean_abs_shap": 0.00055
+  },
+  {
+    "rank": 39,
+    "feature": "addr_state_GA",
+    "mean_abs_shap": 0.00054
+  },
+  {
+    "rank": 40,
+    "feature": "emp_length_3 years",
+    "mean_abs_shap": 0.00047
+  },
+  {
+    "rank": 41,
+    "feature": "addr_state_TX",
+    "mean_abs_shap": 0.00043
+  },
+  {
+    "rank": 42,
+    "feature": "purpose_small_business",
+    "mean_abs_shap": 0.00038
+  },
+  {
+    "rank": 43,
+    "feature": "addr_state_IL",
+    "mean_abs_shap": 0.00036
+  },
+  {
+    "rank": 44,
+    "feature": "purpose_home_improvement",
+    "mean_abs_shap": 0.00035
+  },
+  {
+    "rank": 45,
+    "feature": "addr_state_CO",
+    "mean_abs_shap": 0.00035
+  },
+  {
+    "rank": 46,
+    "feature": "emp_length_1 year",
+    "mean_abs_shap": 0.00033
+  },
+  {
+    "rank": 47,
+    "feature": "emp_length_4 years",
+    "mean_abs_shap": 0.00033
+  },
+  {
+    "rank": 48,
+    "feature": "emp_length_7 years",
+    "mean_abs_shap": 0.00028
+  },
+  {
+    "rank": 49,
+    "feature": "addr_state_NJ",
+    "mean_abs_shap": 0.00027
+  },
+  {
+    "rank": 50,
+    "feature": "addr_state_WA",
+    "mean_abs_shap": 0.00027
+  },
+  {
+    "rank": 51,
+    "feature": "emp_length_5 years",
+    "mean_abs_shap": 0.00023
+  },
+  {
+    "rank": 52,
+    "feature": "emp_length_8 years",
+    "mean_abs_shap": 0.00023
+  },
+  {
+    "rank": 53,
+    "feature": "emp_length_9 years",
+    "mean_abs_shap": 0.00022
+  },
+  {
+    "rank": 54,
+    "feature": "emp_length_6 years",
+    "mean_abs_shap": 0.0002
+  },
+  {
+    "rank": 55,
+    "feature": "addr_state_NC",
+    "mean_abs_shap": 0.00019
+  },
+  {
+    "rank": 56,
+    "feature": "addr_state_OH",
+    "mean_abs_shap": 0.00019
+  },
+  {
+    "rank": 57,
+    "feature": "addr_state_OR",
+    "mean_abs_shap": 0.00019
+  },
+  {
+    "rank": 58,
+    "feature": "addr_state_PA",
+    "mean_abs_shap": 0.00018
+  },
+  {
+    "rank": 59,
+    "feature": "addr_state_MD",
+    "mean_abs_shap": 0.00014
+  },
+  {
+    "rank": 60,
+    "feature": "addr_state_MN",
+    "mean_abs_shap": 0.00014
+  },
+  {
+    "rank": 61,
+    "feature": "addr_state_MA",
+    "mean_abs_shap": 0.00013
+  },
+  {
+    "rank": 62,
+    "feature": "addr_state_MI",
+    "mean_abs_shap": 0.00013
+  },
+  {
+    "rank": 63,
+    "feature": "addr_state_VA",
+    "mean_abs_shap": 0.00011
+  },
+  {
+    "rank": 64,
+    "feature": "addr_state_AZ",
+    "mean_abs_shap": 0.00011
+  },
+  {
+    "rank": 65,
+    "feature": "addr_state_KS",
+    "mean_abs_shap": 0.00011
+  },
+  {
+    "rank": 66,
+    "feature": "addr_state_NH",
+    "mean_abs_shap": 0.0001
+  },
+  {
+    "rank": 67,
+    "feature": "addr_state_CT",
+    "mean_abs_shap": 0.0001
+  },
+  {
+    "rank": 68,
+    "feature": "addr_state_TN",
+    "mean_abs_shap": 9e-05
+  },
+  {
+    "rank": 69,
+    "feature": "addr_state_SC",
+    "mean_abs_shap": 8e-05
+  },
+  {
+    "rank": 70,
+    "feature": "purpose_major_purchase",
+    "mean_abs_shap": 8e-05
+  },
+  {
+    "rank": 71,
+    "feature": "addr_state_MO",
+    "mean_abs_shap": 7e-05
+  },
+  {
+    "rank": 72,
+    "feature": "addr_state_IN",
+    "mean_abs_shap": 7e-05
+  },
+  {
+    "rank": 73,
+    "feature": "addr_state_NV",
+    "mean_abs_shap": 6e-05
+  },
+  {
+    "rank": 74,
+    "feature": "addr_state_OK",
+    "mean_abs_shap": 5e-05
+  },
+  {
+    "rank": 75,
+    "feature": "addr_state_WI",
+    "mean_abs_shap": 5e-05
+  },
+  {
+    "rank": 76,
+    "feature": "purpose_car",
+    "mean_abs_shap": 5e-05
+  },
+  {
+    "rank": 77,
+    "feature": "addr_state_AL",
+    "mean_abs_shap": 4e-05
+  },
+  {
+    "rank": 78,
+    "feature": "addr_state_KY",
+    "mean_abs_shap": 4e-05
+  },
+  {
+    "rank": 79,
+    "feature": "purpose_moving",
+    "mean_abs_shap": 4e-05
+  },
+  {
+    "rank": 80,
+    "feature": "addr_state_LA",
+    "mean_abs_shap": 3e-05
+  },
+  {
+    "rank": 81,
+    "feature": "addr_state_NE",
+    "mean_abs_shap": 3e-05
+  },
+  {
+    "rank": 82,
+    "feature": "addr_state_MS",
+    "mean_abs_shap": 2e-05
+  },
+  {
+    "rank": 83,
+    "feature": "purpose_wedding",
+    "mean_abs_shap": 2e-05
+  },
+  {
+    "rank": 84,
+    "feature": "addr_state_NM",
+    "mean_abs_shap": 2e-05
+  },
+  {
+    "rank": 85,
+    "feature": "purpose_medical",
+    "mean_abs_shap": 2e-05
+  },
+  {
+    "rank": 86,
+    "feature": "purpose_vacation",
+    "mean_abs_shap": 2e-05
+  },
+  {
+    "rank": 87,
+    "feature": "addr_state_AR",
+    "mean_abs_shap": 2e-05
+  },
+  {
+    "rank": 88,
+    "feature": "addr_state_RI",
+    "mean_abs_shap": 1e-05
+  },
+  {
+    "rank": 89,
+    "feature": "purpose_house",
+    "mean_abs_shap": 1e-05
+  },
+  {
+    "rank": 90,
+    "feature": "addr_state_WV",
+    "mean_abs_shap": 1e-05
+  },
+  {
+    "rank": 91,
+    "feature": "addr_state_UT",
+    "mean_abs_shap": 1e-05
+  },
+  {
+    "rank": 92,
+    "feature": "addr_state_HI",
+    "mean_abs_shap": 1e-05
+  },
+  {
+    "rank": 93,
+    "feature": "addr_state_MT",
+    "mean_abs_shap": 0.0
+  },
+  {
+    "rank": 94,
+    "feature": "addr_state_DC",
+    "mean_abs_shap": 0.0
+  },
+  {
+    "rank": 95,
+    "feature": "addr_state_WY",
+    "mean_abs_shap": 0.0
+  },
+  {
+    "rank": 96,
+    "feature": "addr_state_VT",
+    "mean_abs_shap": 0.0
+  },
+  {
+    "rank": 97,
+    "feature": "addr_state_DE",
+    "mean_abs_shap": 0.0
+  },
+  {
+    "rank": 98,
+    "feature": "addr_state_AK",
+    "mean_abs_shap": 0.0
+  },
+  {
+    "rank": 99,
+    "feature": "addr_state_SD",
+    "mean_abs_shap": 0.0
+  },
+  {
+    "rank": 100,
+    "feature": "addr_state_ME",
+    "mean_abs_shap": 0.0
+  },
+  {
+    "rank": 101,
+    "feature": "home_ownership_ANY",
+    "mean_abs_shap": 0.0
+  },
+  {
+    "rank": 102,
+    "feature": "home_ownership_NONE",
+    "mean_abs_shap": 0.0
+  },
+  {
+    "rank": 103,
+    "feature": "home_ownership_OTHER",
+    "mean_abs_shap": 0.0
+  },
+  {
+    "rank": 104,
+    "feature": "purpose_educational",
+    "mean_abs_shap": 0.0
+  },
+  {
+    "rank": 105,
+    "feature": "addr_state_ID",
+    "mean_abs_shap": 0.0
+  },
+  {
+    "rank": 106,
+    "feature": "addr_state_ND",
+    "mean_abs_shap": 0.0
+  },
+  {
+    "rank": 107,
+    "feature": "purpose_renewable_energy",
+    "mean_abs_shap": 0.0
+  }
+]

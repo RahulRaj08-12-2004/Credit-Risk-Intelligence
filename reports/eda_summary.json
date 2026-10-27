@@ -1,0 +1,19 @@
+{
+  "dataset_rows": 50000,
+  "dataset_columns": 29,
+  "target_column": "default",
+  "total_defaults": 9983,
+  "total_non_defaults": 40017,
+  "default_rate": 0.19966,
+  "class_imbalance_ratio": "4.01:1",
+  "mean_loan_amount": 14409.3835,
+  "median_loan_amount": 12000.0,
+  "mean_interest_rate": 13.261782999999998,
+  "mean_annual_income": 76320.5377608,
+  "median_annual_income": 65000.0,
+  "mean_fico_score": 698.09279,
+  "mean_dti": 18.276265600000002,
+  "numerical_features_count": 21,
+  "categorical_features_count": 6,
+  "missing_values_total": 21
+}
